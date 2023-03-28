@@ -1,0 +1,13 @@
+# macos
+.DS_Store
+
+
+# Node modules
+**/node_modules/**
+
+note.md
+
+
+# Editor directories and files
+.idea
+.vscode
