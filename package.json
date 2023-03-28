@@ -1,11 +1,10 @@
 {
-  "name": "express-demo",
+  "name": "express-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.ts",
-    "build": "nodemon index.ts",
     "preview":"vercel dev -d"
   },
   "keywords": [],
